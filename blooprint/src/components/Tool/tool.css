@@ -1,0 +1,17 @@
+.rectangle
+{
+    position: relative;
+    width: 10000px;
+    height: 183px;
+    top: 400px;
+    background-color: #807E7E;
+}
+
+.contact
+{
+    position: relative;
+    top: 20px;
+    left: 900px;
+    color: blue;
+    font-size: 32px;
+}
